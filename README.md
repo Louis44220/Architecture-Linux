@@ -74,4 +74,30 @@ Dans la racine on a les dossiers suivants :
        - ldconfig 
        - pppd 
        - rmmod
+- Sys : // Fichiers système. 
+      
+      ex : 
+      - dev
+      - firmware
+      - bus
 
+- Tmp : // Dossier temporaire utilisé par les programmes pour stocker des fichiers.
+      
+      ex : 
+      - pulse-PKdhtXMmr18n 
+      - tracker-extract-files.1000
+
+- Usr : // Programmes demandés par l'utilisateur.
+      
+      ex :
+      - bin
+      - games
+      - sbin 
+      - local
+- Var : // Ce dossier contient des données « variables », souvent des logs
+      
+      ex : 
+      - backups
+      - cache
+      - log 
+      - mail
