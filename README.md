@@ -4,12 +4,14 @@ Dans la racine on a les dossiers suivants :
 
 - Bin : // Contient des programmes susceptibles d'être utilisés par tous les utilisateurs de la machine.
       
+      ex : 
       - mkdir
       - lsmod
       - setfront
     
 - Boot : // Contient les fichiers permétant démarrage de Linux.
       
+      ex : 
       - config-4.19.0.11-amd64
       - config-4.19.0.12-amd64      
       - initrd.img-4.19.0-11-amd64
@@ -23,12 +25,14 @@ Dans la racine on a les dossiers suivants :
  
 - Etc : // Fichiers de configuration.
       
+      ex : 
       - resolv.conf
       - reportbug.conf
       - debconf.conf
        
 - Home : // Répertoires personnels des utilisateurs.
        
+      ex : 
        - ex : louis 
        
  - initrd.img 
@@ -36,6 +40,7 @@ Dans la racine on a les dossiers suivants :
  
  - Lib : // Dossier contenant les bibliothèques partagées utilisées par les programmes.
  
+       ex : 
        - os-prober
        - os-release
        
@@ -46,6 +51,7 @@ Dans la racine on a les dossiers suivants :
 
 - Media : // Permet d'avoir accès au dossier lorsqu'un périphérique amovible est inséré
         
+        ex : 
         - cdrom
         - cdrom0
            
@@ -54,6 +60,7 @@ Dans la racine on a les dossiers suivants :
 
 - Proc : // Informations systèmes. 
        
+       ex : 
        - filesystems
        - execdomains
       
@@ -63,6 +70,7 @@ Dans la racine on a les dossiers suivants :
 
 - Sbin : // Contient des programmes système importants.
        
+       ex : 
        - ldconfig 
        - pppd 
        - rmmod
