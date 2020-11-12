@@ -59,7 +59,7 @@ Dans la racine on a les dossiers suivants :
       
 - Root : // Dossier personnel de l'utilisateur « root ».
 
-- Run : // 
+- Run : // Un fichier .run est normalement un programme sur mesure qui doit être exécuté pour installer un programme
 
 - Sbin : // Contient des programmes système importants.
        
