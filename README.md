@@ -101,3 +101,5 @@ Dans la racine on a les dossiers suivants :
       - cache
       - log 
       - mail
+- Vmlinuz
+- Vmlinuz.old
