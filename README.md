@@ -35,3 +35,35 @@ Dans la racine on a les dossiers suivants :
  - initrd.img.old
  
  - Lib : // Dossier contenant les bibliothèques partagées utilisées par les programmes.
+ 
+       - os-prober
+       - os-release
+       
+- Lib32
+- Lib64
+- Libx32
+- Lost+found 
+
+- Media : // Permet d'avoir accès au dossier lorsqu'un périphérique amovible est inséré
+        
+        - cdrom
+        - cdrom0
+           
+- Mnt : // Idem que Media mais temporaire. 
+- Opt : // Répertoire utilisé pour les add-ons de programmes.
+
+- Proc : // Informations systèmes. 
+       
+       - filesystems
+       - execdomains
+      
+- Root : // Dossier personnel de l'utilisateur « root ».
+
+- Run : // 
+
+- Sbin : // Contient des programmes système importants.
+       
+       - ldconfig 
+       - pppd 
+       - rmmod
+
